@@ -49,8 +49,9 @@ state changed to poweredOn
 started advertising: success
 ```
 
-Then, start the Steering Wheel application. If it is connected with the
-peripheral, the console prints this line.
+Then, start the Steering Wheel application. A sample application is available
+[here](https://github.com/shinyaishida/steering-wheel-ios12). If it is connected with
+the peripheral, the console prints this line.
 ```bash
 subscribed
 ```
